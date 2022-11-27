@@ -1,1 +1,145 @@
-<mxfile host="app.diagrams.net" modified="2022-11-27T10:25:40.797Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.6.0" etag="ilKJwxKhMg0Srs_cqBFx" type="github"><diagram id="V-mlBi_2I1XkHIG34p3Q">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-11-27T11:35:56.909Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.6.0" etag="UIEYC4DrPnAB37bEDUmK" type="github">
+  <diagram id="bAKvabMBgF7zmTD-xvUX" name="หน้า-1">
+    <mxGraphModel dx="1021" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <object label="" id="0">
+          <mxCell />
+        </object>
+        <mxCell id="1" parent="0" />
+        <mxCell id="ghcg-_64KaztMWU5uIjV-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ghcg-_64KaztMWU5uIjV-1" target="ghcg-_64KaztMWU5uIjV-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ghcg-_64KaztMWU5uIjV-1" value="เริ่มต้น" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ghcg-_64KaztMWU5uIjV-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ghcg-_64KaztMWU5uIjV-2" target="ghcg-_64KaztMWU5uIjV-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ghcg-_64KaztMWU5uIjV-2" value="ตื่นนอน" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ghcg-_64KaztMWU5uIjV-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ghcg-_64KaztMWU5uIjV-4" target="ghcg-_64KaztMWU5uIjV-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ghcg-_64KaztMWU5uIjV-4" value="พัฒนาส่วนกลาง" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ghcg-_64KaztMWU5uIjV-45" value="ไม่สะอาด" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ghcg-_64KaztMWU5uIjV-6" target="ghcg-_64KaztMWU5uIjV-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ghcg-_64KaztMWU5uIjV-46" value="สะอาด" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ghcg-_64KaztMWU5uIjV-6" target="ghcg-_64KaztMWU5uIjV-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ghcg-_64KaztMWU5uIjV-6" value="สะอาดมั้ย" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="290" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ghcg-_64KaztMWU5uIjV-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ghcg-_64KaztMWU5uIjV-8" target="ghcg-_64KaztMWU5uIjV-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ghcg-_64KaztMWU5uIjV-8" value="อาบน้ำแต่งตัว" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ghcg-_64KaztMWU5uIjV-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ghcg-_64KaztMWU5uIjV-10" target="ghcg-_64KaztMWU5uIjV-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ghcg-_64KaztMWU5uIjV-10" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=default;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="210" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ghcg-_64KaztMWU5uIjV-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ghcg-_64KaztMWU5uIjV-12" target="ghcg-_64KaztMWU5uIjV-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="270" y="300" />
+              <mxPoint x="270" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ghcg-_64KaztMWU5uIjV-12" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=default;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="210" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ghcg-_64KaztMWU5uIjV-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ghcg-_64KaztMWU5uIjV-17" target="ghcg-_64KaztMWU5uIjV-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ghcg-_64KaztMWU5uIjV-17" value="กินข้าว" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ghcg-_64KaztMWU5uIjV-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ghcg-_64KaztMWU5uIjV-19" target="ghcg-_64KaztMWU5uIjV-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ghcg-_64KaztMWU5uIjV-19" value="เข้าแถวเคารพธงชาติ" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ghcg-_64KaztMWU5uIjV-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ghcg-_64KaztMWU5uIjV-21" target="ghcg-_64KaztMWU5uIjV-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ghcg-_64KaztMWU5uIjV-21" value="เข้าเรียน" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ghcg-_64KaztMWU5uIjV-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ghcg-_64KaztMWU5uIjV-23" target="ghcg-_64KaztMWU5uIjV-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ghcg-_64KaztMWU5uIjV-23" value="เลิกเรียน" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="1020" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ghcg-_64KaztMWU5uIjV-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ghcg-_64KaztMWU5uIjV-26" target="ghcg-_64KaztMWU5uIjV-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ghcg-_64KaztMWU5uIjV-26" value="กินข้าว" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="1160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ghcg-_64KaztMWU5uIjV-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ghcg-_64KaztMWU5uIjV-28" target="ghcg-_64KaztMWU5uIjV-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ghcg-_64KaztMWU5uIjV-28" value="พัฒนาหอนอน" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="1300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ghcg-_64KaztMWU5uIjV-33" value="สะอาด" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ghcg-_64KaztMWU5uIjV-30" target="ghcg-_64KaztMWU5uIjV-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ghcg-_64KaztMWU5uIjV-38" value="สะอาด" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ghcg-_64KaztMWU5uIjV-30" target="ghcg-_64KaztMWU5uIjV-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ghcg-_64KaztMWU5uIjV-30" value="สะอาดหรือไม่" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="1290" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ghcg-_64KaztMWU5uIjV-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ghcg-_64KaztMWU5uIjV-32" target="ghcg-_64KaztMWU5uIjV-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ghcg-_64KaztMWU5uIjV-32" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=default;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="1230" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ghcg-_64KaztMWU5uIjV-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ghcg-_64KaztMWU5uIjV-34" target="ghcg-_64KaztMWU5uIjV-28">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="394" y="1320" />
+              <mxPoint x="394" y="1320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ghcg-_64KaztMWU5uIjV-34" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=default;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="374" y="1230" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ghcg-_64KaztMWU5uIjV-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ghcg-_64KaztMWU5uIjV-37" target="ghcg-_64KaztMWU5uIjV-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ghcg-_64KaztMWU5uIjV-37" value="อาบน้ำ" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="1460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ghcg-_64KaztMWU5uIjV-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ghcg-_64KaztMWU5uIjV-39" target="ghcg-_64KaztMWU5uIjV-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ghcg-_64KaztMWU5uIjV-39" value="ประชุมหอนอน" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="1600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ghcg-_64KaztMWU5uIjV-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ghcg-_64KaztMWU5uIjV-41" target="ghcg-_64KaztMWU5uIjV-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ghcg-_64KaztMWU5uIjV-41" value="พักผ่อน" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="1600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ghcg-_64KaztMWU5uIjV-43" value="สิ้นสุด" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="1600" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
